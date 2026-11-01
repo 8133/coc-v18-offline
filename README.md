@@ -51,6 +51,6 @@ tested on an **android 11 emulator** running the 32-bit ARM client through ARM t
 
 ## download
 
-[download clash of clans v18.0.5 offline.apk](https://github.com/8133/coc-v18-offline/releases/download/v18.0.5/Clash.of.Clans.v18.0.5.offline.apk)
+[download clash of clans v18.0.5 offline.apk](https://github.com/8133/coc-v18-offline/releases/tag/v18.0.5)
 
-this whole thing was done using AI.
+## NOTICE: this whole modding was done using AI, and 0 knowledge about newer coc protections 
